@@ -29,7 +29,7 @@ GROUP BY 1
 ORDER BY 2 DESC
 ```
 
-q3
+q3 1) SQL query and plot in R or 2) add a custom sql data connection in Tableau and create viz
 ```r
 {r}
 #using R Markdown, RPostgres, ggplot2
